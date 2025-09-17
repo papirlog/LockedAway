@@ -11,7 +11,7 @@
 
 You can play the game online (peer-to-peer) and download the build directly from the web page:
 
-👉 <a href="https://tu-pagina-web-del-juego.com" target="_blank"><strong>Play & Download</strong></a>
+👉 <a href="https://lockedaway.vercel.app/" target="_blank"><strong>Play & Download</strong></a>
 
 ---
 
