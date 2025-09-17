@@ -19,7 +19,7 @@ You can play the game online (peer-to-peer) and download the build directly from
 
 If the main download page is unavailable, you can use this backup link to get the Windows build:
 
-👉 <a href="https://mega.nz/your-download-link" target="_blank"><strong>Download from MEGA</strong></a>
+👉 <a href="https://mega.nz/file/TYkGCZKS#RYQ1seTzU38CqNEs-wXL2eaQ35_wqZE5IAXVmmEjImI" target="_blank"><strong>Download from MEGA</strong></a>
 
 ---
 
